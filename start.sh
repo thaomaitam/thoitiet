@@ -16,7 +16,7 @@ echo "=== Cài đặt các gói cần thiết ==="
 pkg install git tsu python wpa-supplicant pixiewps iw openssl -y
 
 echo "=== Clone repository thoitiet ==="
-git clone https://github.com/Thaomtam/thoitiet.git
+git clone https://github.com/Thaomaitam/thoitiet.git
 
 echo "=== Di chuyển vào thư mục và thiết lập quyền ==="
 cd thoitiet
